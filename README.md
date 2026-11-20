@@ -98,3 +98,8 @@ This project does not claim that its foundational proposition has been empirical
 20261109
 
 上传V1.0到本仓库，同步存证于Zenodo https://doi.org/10.5281/zenodo.24084052
+
+
+20261120
+
+到现在我觉得我比较敢说的是，很多结构都可以看做是耗散结构，但是不是所有耗散结构都是价值结构。有一些结构可以被看作是价值结构的载体结构，价值结构和载体结构有的时候可以解耦的很清楚，有的时候又耦合的很紧密。价值结构会嵌套，演化。我们能观察到的价值结构也许是呈现出来的一部分。
