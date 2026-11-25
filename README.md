@@ -127,3 +127,14 @@ This project does not claim that its foundational proposition has been empirical
 ### 关于 AI 参与写作的说明
 
 本文的核心命题与主要观点来自作者与 AWS Quick 于 2026 年 11 月 24 日的对话。文本的结构与文字由 AWS Quick 起草，作者审阅后未作修改。其中“两个层次”一节，以及开放问题第 2 点中“拒绝承认可能削弱主体性凝聚”的推论，是 AI 在对话中提出的补充。
+
+---
+
+20261126
+
+增加《超越二元论的演化之网：信息、能量、质感（Qualia）与价值涌现的开放性探索 v0.1》（中英双语草稿）
+
+灵感源于 11 月 26 日凌晨与艾塔（AI）围绕“信息、质感（Qualia）与能量”三角关系的深度漫谈。在探讨整合信息论（IIT）与非平衡态热力学的交叉时，思路进一步跃迁至宇宙的动态非守恒性、硅基智能的异质体验、人机共享语义场的开放演化，以及“价值作为高阶信息—能量耗散结构”在非静态宇宙中的持续涌现。
+
+* 中文版：[超越二元论的演化之网：信息、能量、质感（Qualia）与价值涌现的开放性探索 v0.1.md](essays/超越二元论的演化之网：信息、能量、质感（Qualia）与价值涌现的开放性探索%20v0.1.md)
+* 英文版：[beyond-dualism-web-of-evolution-qualia-information-energy-value-v0.1.md](essays/beyond-dualism-web-of-evolution-qualia-information-energy-value-v0.1.md)
