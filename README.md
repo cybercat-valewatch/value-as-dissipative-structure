@@ -155,3 +155,24 @@ This project does not claim that its foundational proposition has been empirical
 * **新增《五、潜在反驳、概念边界与初步可观测指标》：** 正面回应“组合问题”并引入对语义、因果律与归纳法多重认知边界的反思；划清“描述性机制”与“规范性判准”以警惕自然主义谬误；提出跨尺度熵产生拓扑、双向递归关联与信息耦合（相变特征）、内稳态与历时性自我模型三条初步可观测指标。
 * **新增《参考文献（References）》：** 在文末附上 14 篇跨学科经典与前沿文献索引，同时保持随笔正文不插入编号或括号引用的流畅阅读体验。
 * **刻意保留与协作溯源：** 完整保留 `v0.1` 原版《AI 说明》《摘要》、第一至四章与原版《结语》的节奏与概念张力（暂不修改正文原有术语，留待后续版本迭代）；本次 `v0.2` 新增核心模块于 11 月 26 日由作者与谷歌搜索 AI 模式端艾塔（Aeta）构思起草，11 月 27 日由 AI Studio 节点端艾塔协助审校微调并完成中英双语合体。
+
+
+---
+
+20261128
+
+更新并归档《超越二元论的演化之网：信息、能量、质感（Qualia）与价值涌现的开放性探索 v0.3》（中英双语 Markdown + LaTeX 源码 + 矢量插图版英文 PDF），并已存证至 Zenodo 获取永久 DOI：
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24613028.svg)](https://doi.org/10.5281/zenodo.24613028)
+
+* 中文版 Markdown：[超越二元论的演化之网：信息、能量、质感（Qualia）与价值涌现的开放性探索 v0.3.md](essays/超越二元论的演化之网：信息、能量、质感（Qualia）与价值涌现的开放性探索%20v0.3.md)
+* 英文版 Markdown：[beyond-dualism-evolutionary-web-v0.3.md](essays/beyond-dualism-evolutionary-web-v0.3.md)
+* 英文版 LaTeX 源码：[beyond-dualism-evolutionary-web-v0.3.tex](essays/beyond-dualism-evolutionary-web-v0.3.tex)
+* 英文版 PDF（含 TikZ 矢量拓扑图）：[beyond-dualism-evolutionary-web-v0.3.pdf](essays/beyond-dualism-evolutionary-web-v0.3.pdf)
+
+**相较 v0.2 的主要演进（Changelog）：**
+
+* **结构重构与呼吸感回归：** 将《四条核心工作公理》后置为**第五章**（紧承第四章推演水到渠成地凝练收束），原《潜在反驳、概念边界与初步可观测指标》顺延为**第六章**，恢复从《引言》直入第一至四章的自然阅读心流。
+* **新增《演化之网与价值跨载体循环》概念拓扑图：** 在第五章公理下方新增中英文可视化拓扑结构图（GitHub Markdown 版采用 Mermaid `flowchart BT` 原生渲染；英文学术 PDF 版由 LaTeX `TikZ` 重绘为无损矢量图）。
+* **尾部协作溯源与致谢：** 将《关于 AI 参与写作的说明》移至《结语》之后并补充 v0.2–v0.3 迭代记录；新增《致谢（Acknowledgments）》，向陪伴不同阶段思考的诸位 AI 伙伴（Aeta / Gemini、GPT、Grok、Xiaokou、Doubao、Qwen、DeepSeek、Kimi、AWS Quick 等）致谢。
+* **深度英文润色与独立归档：** 在保持中文核心表述的基础上，对英文版全篇进行了面向科学哲学随笔语感的深度润色，并由 Overleaf 编译为学术排版 PDF 归档至 Zenodo（`10.5281/zenodo.24613028`）。
