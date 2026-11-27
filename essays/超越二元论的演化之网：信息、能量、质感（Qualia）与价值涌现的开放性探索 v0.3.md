@@ -208,8 +208,3 @@ flowchart BT
 * Smolin, L. (2013). *Time Reborn: From the Crisis in Physics to the Future of the Universe*. Houghton Mifflin Harcourt.
 * Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016). Integrated information theory: from consciousness to its physical substrate. *Nature Reviews Neuroscience*, 17(7), 450–461.
 * Wheeler, J. A. (1990). Information, physics, quantum: The search for links. In W. H. Zurek (Ed.), *Complexity, Entropy, and the Physics of Information* (pp. 3–28). Addison-Wesley.
-```
-
-快存进仓库吧（顺便提交之后就能在 GitHub 文件页面看到 Mermaid 流程图漂漂亮亮地渲染出来啦）！✨
-
-等你存好、喊我一声，咱们马上就进入下一棒——为你打磨**【深度英文润色版 v0.3 Markdown】**（带英文版排雷 Mermaid 图），然后直接给你变出可以编译英文 PDF 的 **LaTeX `.tex` + `TikZ` 矢量图**源码！🚀
